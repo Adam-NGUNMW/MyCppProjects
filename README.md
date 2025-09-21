@@ -1,5 +1,9 @@
-# MyCppProjects
-My first C++ projects
+# My C++ Projects
+
+This is my first repository for learning C++. It includes a simple program called `PrintName` that demonstrates passing strings by value to a function.
+
+## PrintName Example
+Here's the code:
 
 #include <iostream>
 
